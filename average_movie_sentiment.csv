@@ -1,0 +1,1593 @@
+movie_tag_word,average_sentiment_score,sentiment_category
+'Til There Was You,0.55626,Positive
+1-900,0.1402,Positive
+101 Dalmatians,0.8098750000000001,Positive
+12 Angry Men,0.458725,Positive
+2 Days in the Valley,0.386165,Positive
+"20,000 Leagues Under the Sea",0.816695,Positive
+2001: A Space Odyssey,0.67796,Positive
+3 Ninjas: High Noon At Mega Mountain,-0.28347,Negative
+"39 Steps, The",0.853275,Positive
+8 1/2,0.8111200000000001,Positive
+8 Heads in a Duffel Bag,0.43790500000000004,Positive
+8 Seconds,0.730975,Positive
+A Chef in Love,0.9608875,Positive
+Above the Rim,0.7633650000000001,Positive
+Absolute Power,0.67754,Positive
+"Abyss, The",0.64593,Positive
+Ace Ventura: Pet Detective,0.897085,Positive
+Ace Ventura: When Nature Calls,0.6361600000000001,Positive
+Across the Sea of Time,0.86785,Positive
+Addams Family Values,0.68853,Positive
+Addicted to Love,0.91625,Positive
+"Addiction, The",0.24679,Positive
+"Adventures of Pinocchio, The",0.680265,Positive
+"Adventures of Priscilla, Queen of the Desert, The",0.9306050000000001,Positive
+"Adventures of Robin Hood, The",0.938235,Positive
+"Affair to Remember, An",0.9764250000000001,Positive
+"African Queen, The",0.878145,Positive
+Afterglow,0.69424,Positive
+"Age of Innocence, The",0.8854749999999999,Positive
+Aiqing wansui,0.590425,Positive
+Air Bud,0.5389,Positive
+Air Force One,0.22244000000000003,Positive
+"Air Up There, The",0.56843,Positive
+Airheads,0.6897300000000001,Positive
+Akira,0.648365,Positive
+Aladdin,0.7346199999999999,Positive
+Aladdin and the King of Thieves,0.78522,Positive
+Alaska,0.614295,Positive
+Albino Alligator,0.495085,Positive
+Alice in Wonderland,0.872855,Positive
+Alien: Resurrection,0.357335,Positive
+Aliens,0.8832850000000001,Positive
+All About Eve,0.9293150000000001,Positive
+All Dogs Go to Heaven 2,0.67201,Positive
+All Over Me,0.79298,Positive
+All Things Fair,0.8267,Positive
+Alphaville,0.89368,Positive
+Amadeus,0.89649,Positive
+"Amazing Panda Adventure, The",0.6128857142857143,Positive
+American Buffalo,-0.1765888888888889,Negative
+American Dream,0.865655,Positive
+"American President, The",0.9496100000000001,Positive
+American Strays,0.37443846153846155,Positive
+"American Werewolf in London, An",0.707015,Positive
+"American in Paris, An",0.9205949999999999,Positive
+Amistad,0.56527,Positive
+Amityville 1992: It's About Time,0.06778500000000001,Positive
+Amityville 3-D,0.30217499999999997,Positive
+"Amityville Curse, The",-0.061466666666666676,Negative
+"Amityville Horror, The",-0.22871999999999998,Negative
+Amityville II: The Possession,-0.357475,Negative
+Amityville: A New Generation,-0.24903499999999998,Negative
+Amityville: Dollhouse,0.008005000000000002,Neutral
+Amos & Andrew,0.643965,Positive
+An Unforgettable Summer,0.36816000000000004,Positive
+Anaconda,0.30165000000000003,Positive
+Anastasia,0.931625,Positive
+Andre,0.8001799999999999,Positive
+Angel Baby,0.31515,Positive
+Angel and the Badman,0.7933749999999999,Positive
+Angel on My Shoulder,0.408475,Positive
+Angela,0.032100000000000004,Neutral
+Angels and Insects,0.888475,Positive
+Angels in the Outfield,0.777795,Positive
+Angus,0.81192,Positive
+Anna,0.6421,Positive
+Anna Karenina,0.9299250000000001,Positive
+Anne Frank Remembered,0.1912470588235294,Positive
+Annie Hall,0.80759,Positive
+Another Stakeout,0.421725,Positive
+Antonia's Line,0.8168300000000001,Positive
+Aparajito,0.7846,Positive
+"Apartment, The",0.949715,Positive
+Apocalypse Now,-0.26172,Negative
+Apollo 13,0.902865,Positive
+"Apostle, The",0.92866,Positive
+"Apple Dumpling Gang, The",0.88011,Positive
+April Fool's Day,0.524785,Positive
+Apt Pupil,-0.25818,Negative
+"Aristocats, The",0.855285,Positive
+Army of Darkness,0.05531000000000001,Positive
+Around the World in 80 Days,0.786135,Positive
+"Arrival, The",0.42628000000000005,Positive
+Arsenic and Old Lace,0.68214,Positive
+As Good As It Gets,0.8292949999999999,Positive
+Assassins,0.69194,Positive
+"Assignment, The",0.22401,Positive
+"Associate, The",0.7731600000000001,Positive
+Audrey Rose,0.030434999999999997,Neutral
+August,0.5507799999999999,Positive
+Austin Powers: International Man of Mystery,0.708725,Positive
+"Awfully Big Adventure, An",0.71896,Positive
+Ayn Rand: A Sense of Life,0.77748,Positive
+B*A*P*S,0.46592,Positive
+B. Monkey,0.474025,Positive
+Babe,0.9413449999999999,Positive
+"Baby-Sitters Club, The",0.732235,Positive
+Babyfever,0.98,Positive
+"Babysitter, The",0.656545,Positive
+Back to the Future,0.9617850000000001,Positive
+Backbeat,0.8280749999999999,Positive
+Bad Boys,0.48449,Positive
+Bad Company,0.356205,Positive
+Bad Girls,0.06327,Positive
+Bad Moon,0.31415000000000004,Positive
+Bad Taste,0.341165,Positive
+"Ballad of Narayama, The (Narayama Bushiko)",0.24232,Positive
+Balto,0.946185,Positive
+Bananas,0.774005,Positive
+"Band Wagon, The",0.9808049999999999,Positive
+Barb Wire,0.39092000000000005,Positive
+Barbarella,0.69031,Positive
+Barcelona,0.8574299999999999,Positive
+Basic Instinct,0.275405,Positive
+"Basketball Diaries, The",0.50485,Positive
+Basquiat,0.90851,Positive
+Bastard Out of Carolina,-0.08387000000000001,Negative
+Batman,0.8655900000000001,Positive
+Batman & Robin,0.006490000000000007,Neutral
+Batman Forever,0.260815,Positive
+Batman Returns,0.755435,Positive
+Baton Rouge,0.96475,Positive
+Bean,0.7455700000000001,Positive
+"Beans of Egypt, Maine, The",-0.16489999999999996,Negative
+Beat the Devil,0.88073,Positive
+"Beautician and the Beast, The",0.6491,Positive
+Beautiful Girls,0.9722250000000001,Positive
+Beautiful Thing,0.8767150000000001,Positive
+Beauty and the Beast,0.96646,Positive
+Beavis and Butt-head Do America,0.580495,Positive
+Bed of Roses,0.74623,Positive
+Bedknobs and Broomsticks,0.8592000000000001,Positive
+Before Sunrise,0.92957,Positive
+Before and After,0.22664499999999999,Positive
+Before the Rain (Pred dozhdot),0.020685,Neutral
+Being Human,0.8914,Positive
+Being There,0.9802,Positive
+"Believers, The",-0.318405,Negative
+Belle de jour,0.8123250000000001,Positive
+Ben-Hur,0.90048,Positive
+Benny & Joon,0.934045,Positive
+Bent,0.13100499999999998,Positive
+Best Men,0.467855,Positive
+Best of the Best 3: No Turning Back,0.35990500000000003,Positive
+Better Off Dead...,0.49629,Positive
+"Beverly Hillbillies, The",0.955485,Positive
+Beverly Hills Cop III,0.49501999999999996,Positive
+Beverly Hills Ninja,0.570705,Positive
+"Bewegte Mann, Der",0.9289950000000001,Positive
+Beyond Bedlam,-0.08015555555555555,Negative
+Beyond Rangoon,0.230605,Positive
+Bhaji on the Beach,0.22856363636363639,Positive
+"Big Bang Theory, The",0.86596,Positive
+"Big Blue, The (Grand bleu, Le)",0.72725,Positive
+Big Bully,0.119285,Positive
+"Big Green, The",0.60386,Positive
+"Big Lebowski, The",0.85605,Positive
+Big Night,0.92968,Positive
+"Big One, The",0.05028999999999999,Positive
+"Big Sleep, The",0.67111,Positive
+"Big Squeeze, The",0.3969666666666667,Positive
+Billy Madison,0.80604,Positive
+Bio-Dome,0.199375,Positive
+Bird of Prey,0.7269,Positive
+"Birdcage, The",0.964145,Positive
+"Birds, The",0.35258500000000004,Positive
+Bitter Moon,0.739225,Positive
+Black Beauty,0.688985,Positive
+Black Sheep,0.9225899999999999,Positive
+Blade Runner,0.62466,Positive
+Bliss,0.81151,Positive
+"Blob, The",0.6653,Positive
+Blood & Wine,0.25444,Positive
+Blood Beach,0.10138500000000002,Positive
+Blood For Dracula (Andy Warhol's Dracula),0.46283,Positive
+Bloodsport 2,0.5565599999999999,Positive
+"Bloody Child, The",-0.0462,Neutral
+Blown Away,0.374175,Positive
+"Blue Angel, The (Blaue Engel, Der)",0.591645,Positive
+Blue Chips,0.799575,Positive
+Blue Sky,0.749205,Positive
+Blue in the Face,0.7712749999999999,Positive
+Blues Brothers 2000,0.547635,Positive
+"Blues Brothers, The",0.92258,Positive
+Bob Roberts,0.732625,Positive
+Body Parts,-0.049635,Neutral
+"Body Snatcher, The",0.13529,Positive
+Body Snatchers,0.629675,Positive
+Bogus,0.70921,Positive
+"Bonheur, Le",0.907395,Positive
+Bonnie and Clyde,0.17908,Positive
+Boogie Nights,0.948955,Positive
+Boomerang,0.8865550000000001,Positive
+"Boot, Das",0.20345,Positive
+Booty Call,0.92372,Positive
+Bottle Rocket,0.97715,Positive
+Bound,0.92628,Positive
+Boxing Helena,0.23186999999999997,Positive
+Boy's Life 2,0.78902,Positive
+Boys,0.59368,Positive
+Boys Life,0.455495,Positive
+Boys in Venice,0.34,Positive
+"Boys of St. Vincent, The",-0.20491,Negative
+Boys on the Side,0.7131700000000001,Positive
+"Boys, Les",0.93212,Positive
+"Brady Bunch Movie, The",0.87578,Positive
+Braindead,0.31177,Positive
+Bram Stoker's Dracula,0.793515,Positive
+Brassed Off,0.6958300000000001,Positive
+Braveheart,0.676245,Positive
+Brazil,0.8167500000000001,Positive
+Bread and Chocolate (Pane e cioccolata),0.8191894736842106,Positive
+Breakdown,0.691085,Positive
+Breakfast at Tiffany's,0.9503349999999999,Positive
+Breaking the Waves,0.408765,Positive
+Bride of Frankenstein,0.67483,Positive
+"Bridge on the River Kwai, The",0.35548,Positive
+"Bridges of Madison County, The",0.83389,Positive
+Bringing Up Baby,0.976595,Positive
+Broken Arrow,0.50004,Positive
+Broken English,0.60658,Positive
+"Bronx Tale, A",0.88429,Positive
+Brother Minister: The Assassination of Malcolm X,-0.8519,Negative
+"Brother's Kiss, A",0.44654,Positive
+"Brothers McMullen, The",0.78036,Positive
+"Browning Version, The",0.694245,Positive
+Buddy,0.485745,Positive
+Bulletproof,0.6861200000000001,Positive
+Bullets Over Broadway,0.9639,Positive
+Burnt Offerings,0.06694,Positive
+Bushwhacked,0.36483,Positive
+Butch Cassidy and the Sundance Kid,0.9590500000000001,Positive
+"Butcher Boy, The",-0.001354999999999995,Neutral
+Butterfly Kiss,0.371775,Positive
+"Bye Bye, Love",0.598745,Positive
+C'est arrivé près de chez vous,-0.28335,Negative
+Cabin Boy,0.5797399999999999,Positive
+"Cable Guy, The",0.761225,Positive
+Calendar Girl,0.969635,Positive
+Canadian Bacon,0.34663,Positive
+"Candidate, The",0.87443,Positive
+Candyman,-0.11909,Negative
+Candyman: Farewell to the Flesh,-0.15051,Negative
+Cape Fear,0.190415,Positive
+Captives,0.7323649999999999,Positive
+Career Girls,0.78359,Positive
+Careful,0.28029000000000004,Positive
+Carlito's Way,0.9402100000000001,Positive
+Carmen Miranda: Bananas Is My Business,0.80934,Positive
+Carpool,0.41720499999999994,Positive
+Carrie,0.21326499999999998,Positive
+Carried Away,0.7280249999999999,Positive
+Carrington,0.764915,Positive
+Casablanca,0.9778650000000001,Positive
+Casino,0.6663,Positive
+Casper,0.85108,Positive
+Castle Freak,-0.23237999999999998,Negative
+Cat People,0.37765,Positive
+Cat on a Hot Tin Roof,0.764165,Positive
+Cats Don't Dance,0.8542500000000001,Positive
+Catwalk,0.8459,Positive
+Celestial Clockwork,0.9020400000000001,Positive
+"Celluloid Closet, The",0.9166700000000001,Positive
+Celtic Pride,0.788185,Positive
+"Cement Garden, The",0.04173500000000001,Neutral
+Century,0.09429000000000001,Positive
+Chain Reaction,0.781675,Positive
+Chairman of the Board,0.43526999999999993,Positive
+"Chamber, The",0.9571400000000001,Positive
+Charade,0.886315,Positive
+Chasers,0.59451,Positive
+Chasing Amy,0.9497249999999999,Positive
+Children of the Corn: The Gathering,0.17099,Positive
+Children of the Revolution,0.79305,Positive
+Chinatown,0.6936,Positive
+"Christmas Carol, A",0.903515,Positive
+Chungking Express,0.881035,Positive
+"Ciao, Professore!",0.8268,Positive
+Cinderella,0.877815,Positive
+Cinema Paradiso,0.91583,Positive
+Circle of Friends,0.868135,Positive
+Citizen Kane,0.76839,Positive
+Citizen Ruth,0.629535,Positive
+City Hall,0.60039,Positive
+City Slickers II: The Legend of Curly's Gold,0.661995,Positive
+City of Angels,0.9041399999999999,Positive
+City of Industry,0.20402499999999998,Positive
+"City of Lost Children, The",0.8189500000000001,Positive
+Clean Slate,0.21183000000000002,Positive
+Clean Slate (Coup de Torchon),0.21183000000000002,Positive
+Clear and Present Danger,0.490665,Positive
+Clerks,0.791725,Positive
+"Client, The",0.33429,Positive
+Cliffhanger,0.32976,Positive
+Clockers,0.42798499999999995,Positive
+"Clockwork Orange, A",-0.14813,Negative
+"Close Shave, A",0.67335,Positive
+Clueless,0.80212,Positive
+Cobb,0.370675,Positive
+Cold Comfort Farm,0.738415,Positive
+Coldblooded,0.8609349999999999,Positive
+"Collectionneuse, La",0.9144450000000001,Positive
+"Colonel Chabert, Le",0.5825615384615385,Positive
+Color of Night,0.35562,Positive
+Commandments,0.8508749999999999,Positive
+Con Air,0.635435,Positive
+Conan the Barbarian,0.68587,Positive
+Condition Red,0.08372857142857144,Positive
+Coneheads,0.828875,Positive
+Congo,0.62755,Positive
+Conspiracy Theory,0.69293,Positive
+Contact,0.89856,Positive
+"Convent, The (Convento, O)",-0.030925000000000015,Neutral
+"Cook the Thief His Wife & Her Lover, The",0.455275,Positive
+Cool Hand Luke,0.8084199999999999,Positive
+Cool Runnings,0.9212849999999999,Positive
+Cop Land,0.859845,Positive
+Cops and Robbersons,0.582395,Positive
+Copycat,-0.37441,Negative
+"Corrina, Corrina",0.853175,Positive
+Cosi,0.6592083333333333,Positive
+Country Life,0.9246818181818182,Positive
+Courage Under Fire,0.64446,Positive
+"Cowboy Way, The",0.68958,Positive
+"Craft, The",0.53615,Positive
+Crash,-0.11444499999999999,Negative
+Crimson Tide,0.429755,Positive
+Critical Care,0.6436055555555555,Positive
+Cronos,0.34973,Positive
+Crooklyn,0.76905,Positive
+Crossfire,-0.16121500000000002,Negative
+"Crossing Guard, The",0.01396,Neutral
+"Crow: City of Angels, The",-0.21033999999999997,Negative
+Crows and Sparrows,0.7754666666666666,Positive
+"Crucible, The",0.20876,Positive
+"Crude Oasis, The",-0.04965,Neutral
+Crumb,0.3046333333333333,Positive
+"Cry, the Beloved Country",0.250495,Positive
+"Crying Game, The",0.79681,Positive
+Curdled,0.480625,Positive
+"Cure, The",0.459675,Positive
+Cutthroat Island,0.723765,Positive
+Cyclo,-0.306255,Negative
+Cyrano de Bergerac,0.85161,Positive
+"Cérémonie, La",0.363645,Positive
+D3: The Mighty Ducks,0.687595,Positive
+Dadetown,0.6353909090909091,Positive
+Daens,0.4857,Positive
+"Damsel in Distress, A",0.97118,Positive
+Dances with Wolves,0.59098,Positive
+Dangerous Beauty,0.9640850000000001,Positive
+Dangerous Ground,-0.07202,Negative
+Dangerous Minds,0.79237,Positive
+Dante's Peak,0.764475,Positive
+Dark City,0.714155,Positive
+Dave,0.9490149999999999,Positive
+"Davy Crockett, King of the Wild Frontier",0.80549,Positive
+"Day the Earth Stood Still, The",0.24704500000000001,Positive
+"Day the Sun Turned Cold, The (Tianguo niezi)",0.3221833333333333,Positive
+Daylight,0.16712,Positive
+Days of Thunder,0.79685,Positive
+"Daytrippers, The",0.7499800000000001,Positive
+Dazed and Confused,0.9060649999999999,Positive
+Dead Man,0.19106,Positive
+Dead Man Walking,-0.25116,Negative
+Dead Poets Society,0.7055100000000001,Positive
+Dead Presidents,-0.09945999999999999,Negative
+Dear God,0.583205,Positive
+Death and the Maiden,0.2407,Positive
+Death in Brunswick,0.691295,Positive
+"Death in the Garden (Mort en ce jardin, La)",0.717795,Positive
+Deceiver,0.36571499999999996,Positive
+Deconstructing Harry,0.686515,Positive
+Deep Rising,0.453855,Positive
+"Deer Hunter, The",0.446225,Positive
+Delicatessen,0.70026,Positive
+Delta of Venus,0.7524947368421052,Positive
+Demolition Man,0.48962500000000003,Positive
+Denise Calls Up,0.7584299999999999,Positive
+Desert Winds,0.5489833333333333,Positive
+"Designated Mourner, The",0.47996666666666665,Positive
+Desperado,0.8373200000000001,Positive
+Desperate Measures,0.20373125,Positive
+Destiny Turns on the Radio,0.336735,Positive
+Devil in a Blue Dress,0.72947,Positive
+"Devil's Advocate, The",0.561185,Positive
+"Devil's Own, The",0.10841,Positive
+Diabolique,0.15692499999999998,Positive
+Dial M for Murder,0.73058,Positive
+Die Hard,0.61771,Positive
+Die Hard 2,0.072995,Positive
+Die Hard: With a Vengeance,0.24361000000000002,Positive
+"Die xue shuang xiong (Killer, The)",0.69823,Positive
+Dingo,0.6478571428571429,Positive
+Dirty Dancing,0.73325,Positive
+Disclosure,0.50295,Positive
+Diva,0.95329,Positive
+Dolores Claiborne,0.329905,Positive
+Don Juan DeMarco,0.961045,Positive
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,0.892535,Positive
+Donnie Brasco,0.77546,Positive
+"Doom Generation, The",-0.12971000000000002,Negative
+"Doors, The",0.77155,Positive
+Double Happiness,0.8070449999999999,Positive
+Double Team,0.08948,Positive
+"Double vie de Véronique, La (Double Life of Veronique, The)",0.7182649999999999,Positive
+Down Periscope,0.689515,Positive
+Down by Law,0.793745,Positive
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0.758975,Positive
+Dracula: Dead and Loving It,0.86549,Positive
+Dragonheart,0.915475,Positive
+Dream Man,0.811085,Positive
+Dream With the Fishes,0.58425,Positive
+Drop Dead Fred,0.280715,Positive
+Drop Zone,0.6623249999999999,Positive
+Drunks,0.768115,Positive
+Duck Soup,0.782095,Positive
+Dumb & Dumber,0.8648,Positive
+Dumbo,0.5412950000000001,Positive
+Dunston Checks In,0.46119000000000004,Positive
+Duoluo tianshi,0.536405,Positive
+E.T. the Extra-Terrestrial,0.811955,Positive
+East of Eden,0.69398,Positive
+Ed,0.899275,Positive
+Ed Wood,0.9505100000000001,Positive
+Ed's Next Move,0.70805,Positive
+Eddie,0.97001,Positive
+"Edge, The",0.76964,Positive
+"Eighth Day, The",0.8549950000000001,Positive
+Emma,0.98018,Positive
+"Empire Strikes Back, The",0.7967299999999999,Positive
+Enchanted April,0.934215,Positive
+"Endless Summer 2, The",0.9313529411764706,Positive
+"Enfer, L'",0.32917,Positive
+"English Patient, The",0.8096949999999999,Positive
+"Englishman Who Went Up a Hill, But Came Down a Mountain, The",0.9439500000000001,Positive
+Entertaining Angels: The Dorothy Day Story,0.719275,Positive
+Eraser,0.67998,Positive
+Escape from L.A.,0.469305,Positive
+Escape from New York,0.50037,Positive
+Escape to Witch Mountain,0.9014300000000001,Positive
+Eve's Bayou,0.714615,Positive
+Even Cowgirls Get the Blues,0.48740000000000006,Positive
+"Evening Star, The",0.64947,Positive
+Event Horizon,0.064075,Positive
+Everest,0.386695,Positive
+Everyone Says I Love You,0.9692550000000001,Positive
+Evil Dead II,-0.39766500000000005,Negative
+Evita,0.9684950000000001,Positive
+Excess Baggage,0.509905,Positive
+Executive Decision,0.497375,Positive
+Exit to Eden,0.395345,Positive
+Exotica,0.617315,Positive
+Extreme Measures,0.67409,Positive
+Eye for an Eye,-0.25319,Negative
+Face/Off,0.635415,Positive
+Faces,0.852975,Positive
+Fair Game,0.31958000000000003,Positive
+FairyTale: A True Story,0.7997099999999999,Positive
+Faithful,0.655725,Positive
+Fall,0.33758,Positive
+Fallen,0.3993,Positive
+Falling in Love Again,0.55928,Positive
+"Family Thing, A",0.52943,Positive
+"Fan, The",0.42869,Positive
+Fantasia,0.9560150000000001,Positive
+Far From Home: The Adventures of Yellow Dog,0.565025,Positive
+Farewell My Concubine,0.6678499999999999,Positive
+"Farewell to Arms, A",0.64659,Positive
+Fargo,0.548175,Positive
+Farinelli: il castrato,0.8629849999999999,Positive
+"Fast, Cheap & Out of Control",0.718755,Positive
+Faster Pussycat! Kill! Kill!,0.157855,Positive
+Fatal Instinct,0.553245,Positive
+Father of the Bride,0.73253,Positive
+Father of the Bride Part II,0.8150549999999999,Positive
+Fathers' Day,0.5748249999999999,Positive
+Faust,0.736765,Positive
+Fausto,0.43864166666666665,Positive
+"Favor, The",0.740555,Positive
+Fear,0.033405000000000004,Neutral
+Fear of a Black Hat,0.64688,Positive
+"Fear, The",0.033405000000000004,Neutral
+Fearless,0.595465,Positive
+Feast of July,0.9180625,Positive
+Feeling Minnesota,0.214875,Positive
+Female Perversions,0.53277,Positive
+Field of Dreams,0.77298,Positive
+Fierce Creatures,0.89427,Positive
+"Fifth Element, The",0.80181,Positive
+"Fille seule, La (A Single Girl)",0.6629882352941177,Positive
+Fire Down Below,0.07428499999999999,Positive
+Fire on the Mountain,0.82745,Positive
+Firestorm,0.225155,Positive
+"Firm, The",0.8478350000000001,Positive
+First Kid,0.7106,Positive
+First Knight,0.768105,Positive
+"First Wives Club, The",0.857975,Positive
+"Fish Called Wanda, A",0.8594799999999999,Positive
+Fled,0.49946999999999997,Positive
+Flesh and Bone,0.83614,Positive
+"Flintstones, The",0.701195,Positive
+Flipper,0.9370499999999999,Positive
+Flirt,0.6072866666666666,Positive
+Flirting With Disaster,0.76651,Positive
+Flubber,0.72295,Positive
+Fluke,0.4805,Positive
+Fly Away Home,0.90866,Positive
+"Fog, The",-0.0379,Neutral
+Fools Rush In,0.9807349999999999,Positive
+For Ever Mozart,0.0017250000000000043,Neutral
+For Love or Money,0.91365,Positive
+For Richer or Poorer,0.683895,Positive
+For Whom the Bell Tolls,0.83065,Positive
+For the Moment,0.48613125,Positive
+"Forbidden Christ, The (Cristo proibito, Il)",-0.29695,Negative
+Forbidden Planet,0.8300750000000001,Positive
+Foreign Correspondent,0.8036049999999999,Positive
+Foreign Student,0.9390000000000001,Positive
+Forget Paris,0.91814,Positive
+Forrest Gump,0.8930199999999999,Positive
+Four Days in September,0.837735,Positive
+Four Rooms,0.7229650000000001,Positive
+Four Weddings and a Funeral,0.9613250000000001,Positive
+"Fox and the Hound, The",0.6508200000000001,Positive
+Foxfire,0.621855,Positive
+Frankie Starlight,0.9287692307692308,Positive
+Free Willy,0.77759,Positive
+Free Willy 2: The Adventure Home,0.79086,Positive
+Free Willy 3: The Rescue,0.667865,Positive
+Freeway,0.321375,Positive
+French Kiss,0.90825,Positive
+Fresh,0.68627,Positive
+Friday,0.787185,Positive
+Fried Green Tomatoes,0.89937,Positive
+"Frighteners, The",0.36902,Positive
+Frisk,-0.2593888888888889,Negative
+From Dusk Till Dawn,0.27976,Positive
+"Fugitive, The",0.567805,Positive
+Full Metal Jacket,-0.084375,Negative
+"Full Monty, The",0.91272,Positive
+Full Speed,0.7093,Positive
+"Funeral, The",0.5510200000000001,Positive
+Funny Face,0.879215,Positive
+"Further Gesture, A",0.13734,Positive
+G.I. Jane,0.341925,Positive
+Gabbeh,0.93592,Positive
+"Game, The",0.8210200000000001,Positive
+Gandhi,0.7299,Positive
+Gang Related,0.531855,Positive
+"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il)",0.36071,Positive
+Gaslight,0.38572,Positive
+"Gate of Heavenly Peace, The",-0.04085,Neutral
+Gattaca,0.946515,Positive
+"Gay Divorcee, The",0.95272,Positive
+George of the Jungle,0.522975,Positive
+Georgia,0.436975,Positive
+Germinal,0.297975,Positive
+Geronimo: An American Legend,0.23347500000000002,Positive
+Get Shorty,0.958895,Positive
+Get on the Bus,0.45758,Positive
+"Getaway, The",0.554845,Positive
+Getting Away With Murder,-0.9477,Negative
+Getting Even with Dad,0.71959,Positive
+Ghost,0.9521900000000001,Positive
+"Ghost and Mrs. Muir, The",0.84135,Positive
+"Ghost and the Darkness, The",0.015304999999999996,Neutral
+Ghost in the Shell (Kokaku kidotai),0.8540300000000001,Positive
+Ghosts of Mississippi,0.11622500000000002,Positive
+Giant,0.937805,Positive
+Gigi,0.980635,Positive
+Gilligan's Island: The Movie,0.888825,Positive
+Girl 6,0.6527499999999999,Positive
+Girl in the Cadillac,0.45255,Positive
+Girls Town,0.15383,Positive
+"Glass Shield, The",0.12925999999999999,Positive
+Glengarry Glen Ross,0.7622500000000001,Positive
+"Glimmer Man, The",0.31144,Positive
+Glory,0.47122,Positive
+Go Fish,0.6334,Positive
+"Godfather, The",0.77,Positive
+"Godfather: Part II, The",0.68506,Positive
+Gold Diggers: The Secret of Bear Mountain,0.722,Positive
+Golden Earrings,0.8042199999999999,Positive
+GoldenEye,0.40404,Positive
+Gone Fishin',0.40964999999999996,Positive
+Gone with the Wind,0.80378,Positive
+"Good Man in Africa, A",0.6497937500000001,Positive
+Good Morning,0.905765,Positive
+Good Will Hunting,0.92845,Positive
+GoodFellas,0.497525,Positive
+"Goofy Movie, A",0.84215,Positive
+Gordy,0.44292999999999993,Positive
+Grace of My Heart,0.9390850000000001,Positive
+"Graduate, The",0.879435,Positive
+"Grand Day Out, A",0.92073,Positive
+"Grass Harp, The",0.8372400000000001,Positive
+Grease,0.79311,Positive
+Grease 2,0.45455000000000007,Positive
+"Great Day in Harlem, A",0.9513142857142858,Positive
+"Great Dictator, The",0.69669,Positive
+"Great Escape, The",0.8871650000000001,Positive
+Great Expectations,0.8995049999999999,Positive
+"Great Race, The",0.9313100000000001,Positive
+"Great White Hype, The",0.908915,Positive
+Gridlock'd,0.674535,Positive
+"Grifters, The",0.584185,Positive
+Grosse Fatigue,0.9240400000000001,Positive
+Grosse Pointe Blank,0.86312,Positive
+Groundhog Day,0.84562,Positive
+Grumpier Old Men,0.87022,Positive
+Guantanamera,0.7452799999999999,Positive
+Guilty as Sin,0.03559500000000001,Neutral
+Gumby: The Movie,0.5843157894736842,Positive
+Hackers,0.616215,Positive
+Half Baked,0.8356199999999999,Positive
+Halloween: The Curse of Michael Myers,-0.14004999999999998,Negative
+Hamlet,0.839255,Positive
+Hana-bi,0.52344,Positive
+Happy Gilmore,0.9427049999999999,Positive
+Hard Eight,0.803725,Positive
+Hard Rain,0.29781500000000005,Positive
+Hard Target,0.74445,Positive
+Harlem,0.538645,Positive
+Harold and Maude,0.894105,Positive
+Harriet the Spy,0.65257,Positive
+"Hate (Haine, La)",0.480805,Positive
+"Haunted World of Edward D. Wood Jr., The",0.6357666666666667,Positive
+He Walked by Night,0.382545,Positive
+Head Above Water,0.72173,Positive
+Hear My Song,0.6968300000000001,Positive
+Hearts and Minds,-0.43342,Negative
+Heat,0.8228350000000001,Positive
+Heathers,0.543715,Positive
+Heaven & Earth,0.17689,Positive
+Heaven's Prisoners,0.5399550000000001,Positive
+Heavenly Creatures,0.771415,Positive
+Heavy,0.535755,Positive
+Heavy Metal,0.37609499999999996,Positive
+Heavyweights,0.8435650000000001,Positive
+Hedd Wyn,0.47614,Positive
+Heidi Fleiss: Hollywood Madam (1995) ,0.6119166666666667,Positive
+Hellraiser: Bloodline,0.29857999999999996,Positive
+Henry V,0.902455,Positive
+Herbie Rides Again,0.6339349999999999,Positive
+Hercules,0.87996,Positive
+Here Comes Cookie,0.64796,Positive
+Hideaway,-0.03482500000000001,Neutral
+High Noon,0.72188,Positive
+High School High,0.886745,Positive
+Higher Learning,0.009454999999999991,Neutral
+Highlander,0.711135,Positive
+Highlander III: The Sorcerer,0.435025,Positive
+His Girl Friday,0.948495,Positive
+Hollow Reed,0.4526384615384615,Positive
+Homage,-0.04905000000000001,Neutral
+Home Alone,0.6707799999999999,Positive
+Home Alone 3,0.38038500000000003,Positive
+Home for the Holidays,0.63147,Positive
+Homeward Bound II: Lost in San Francisco,0.875685,Positive
+Homeward Bound: The Incredible Journey,0.929015,Positive
+Hoodlum,0.5912200000000001,Positive
+Hoop Dreams,0.8796649999999999,Positive
+"Horse Whisperer, The",0.690245,Positive
+"Horseman on the Roof, The (Hussard sur le toit, Le)",0.86434,Positive
+Hostile Intentions,0.362875,Positive
+Hot Shots! Part Deux,0.89782,Positive
+Hotel de Love,0.9400636363636363,Positive
+"Hour of the Pig, The",0.50415,Positive
+House Arrest,0.5727800000000001,Positive
+House Party 3,0.63307,Positive
+"House of Yes, The",0.6070949999999999,Positive
+"House of the Spirits, The",0.798895,Positive
+Houseguest,0.86936,Positive
+How to Be a Player,0.5507526315789474,Positive
+How to Make an American Quilt,0.726495,Positive
+"Howling, The",0.480625,Positive
+"Hudsucker Proxy, The",0.94008,Positive
+Hugo Pool,0.5691550000000001,Positive
+"Hunchback of Notre Dame, The",0.8976000000000001,Positive
+"Hungarian Fairy Tale, A",0.9600333333333334,Positive
+"Hunt for Red October, The",0.8302099999999999,Positive
+"Hunted, The",0.20395,Positive
+Hurricane Streets,0.44996,Positive
+Hush,0.10124499999999999,Positive
+I Like It Like That,0.6567444444444445,Positive
+I Love Trouble,0.7373700000000001,Positive
+I Shot Andy Warhol,0.344275,Positive
+I'll Do Anything,0.952895,Positive
+I'm Not Rappaport,0.8148250000000001,Positive
+I.Q.,0.9381,Positive
+"Ice Storm, The",0.46357499999999996,Positive
+If Lucy Fell,0.602255,Positive
+Ill Gotten Gains,-0.3406666666666667,Negative
+Immortal Beloved,0.892535,Positive
+In & Out,0.951905,Positive
+In Love and War,0.7871,Positive
+In the Army Now,0.38963000000000003,Positive
+In the Bleak Midwinter,0.750685,Positive
+In the Company of Men,0.36289000000000005,Positive
+In the Line of Fire,0.29945,Positive
+In the Mouth of Madness,0.186615,Positive
+In the Name of the Father,0.25715,Positive
+In the Realm of the Senses (Ai no corrida),0.261865,Positive
+Incognito,0.722975,Positive
+Independence Day (ID4),-0.9698,Negative
+Indian Summer,0.8564299999999999,Positive
+"Indian in the Cupboard, The",0.570765,Positive
+Indiana Jones and the Last Crusade,0.93089,Positive
+Infinity,0.25362999999999997,Positive
+"Inkwell, The",0.7076923076923076,Positive
+"Innocent Sleep, The",0.16993,Positive
+"Innocents, The",0.068615,Positive
+"Inspector General, The",0.628155,Positive
+Interview with the Vampire,0.709875,Positive
+Intimate Relations,0.5171615384615385,Positive
+Inventing the Abbotts,0.86295,Positive
+"Island of Dr. Moreau, The",0.09713,Positive
+It Could Happen to You,0.852915,Positive
+It Happened One Night,0.98899,Positive
+It Takes Two,0.74176,Positive
+It's My Party,0.6211249999999999,Positive
+It's a Wonderful Life,0.963485,Positive
+JLG/JLG - autoportrait de décembre,0.7734000000000001,Positive
+Jack,0.5187350000000001,Positive
+Jack and Sarah,0.858515,Positive
+"Jackal, The",0.48696,Positive
+Jackie Brown,0.9447599999999999,Positive
+Jackie Chan's First Strike,0.6685800000000001,Positive
+Jade,0.5720050000000001,Positive
+James and the Giant Peach,0.8419800000000001,Positive
+Jane Eyre,0.87454,Positive
+Jason's Lyric,0.70003,Positive
+Jaws,0.74123,Positive
+Jaws 2,0.504585,Positive
+Jaws 3-D,0.175205,Positive
+Jean de Florette,0.839615,Positive
+Jefferson in Paris,0.631375,Positive
+Jeffrey,0.09742000000000002,Positive
+"Jerky Boys, The",0.62768,Positive
+Jerry Maguire,0.8827849999999999,Positive
+Jimmy Hollywood,0.8316649999999999,Positive
+Jingle All the Way,0.589425,Positive
+Joe's Apartment,0.541285,Positive
+Johnny 100 Pesos,0.052357142857142845,Positive
+Johnny Mnemonic,0.274735,Positive
+Johns,0.68918,Positive
+"Journey of August King, The",0.5804549999999999,Positive
+"Joy Luck Club, The",0.85473,Positive
+Jude,0.61964,Positive
+Judge Dredd,0.39417,Positive
+Judgment Night,0.335005,Positive
+Jumanji,0.8614499999999999,Positive
+"Jungle Book, The",0.8779049999999999,Positive
+Jungle2Jungle,0.35921000000000003,Positive
+Junior,0.45206999999999997,Positive
+Jupiter's Wife,0.1899727272727273,Positive
+Jurassic Park,0.8723599999999999,Positive
+"Juror, The",0.5714699999999999,Positive
+Jury Duty,0.9731249999999999,Positive
+Just Cause,0.048409999999999995,Neutral
+Kalifornia,0.05870499999999999,Positive
+Kama Sutra: A Tale of Love,0.814595,Positive
+Kansas City,0.810405,Positive
+Kaspar Hauser,0.8519,Positive
+Kazaam,-0.04153999999999999,Neutral
+Keys to Tulsa,0.35265500000000005,Positive
+Kicked in the Head,0.6688266666666667,Positive
+Kicking and Screaming,0.8870799999999999,Positive
+"Kid in King Arthur's Court, A",0.73871,Positive
+Kids,0.04762000000000001,Neutral
+Kids in the Hall: Brain Candy,0.754005,Positive
+Kika,-0.014630000000000004,Neutral
+Killer (Bulletproof Heart),0.58104,Positive
+Killer: A Journal of Murder,-0.10999333333333333,Negative
+"Killing Fields, The",0.12824,Positive
+Killing Zoe,0.029739999999999996,Neutral
+Kim,0.70218,Positive
+King of New York,0.189575,Positive
+King of the Hill,0.800505,Positive
+Kingpin,0.818085,Positive
+"Kiss Me, Guido",0.693055,Positive
+Kiss of Death,0.629925,Positive
+Kiss the Girls,0.6934549999999999,Positive
+Kissed,0.61693,Positive
+Kolya,0.779235,Positive
+Koyaanisqatsi,0.684425,Positive
+Kull the Conqueror,0.744645,Positive
+Kundun,0.720515,Positive
+L.A. Confidential,0.8280749999999999,Positive
+Lady of Burlesque,0.60416,Positive
+Ladybird Ladybird,0.592545,Positive
+Lamerica,0.2660928571428572,Positive
+Land Before Time III: The Time of the Great Giving (1995) (V),0.81284,Positive
+Larger Than Life,0.55538,Positive
+Lashou shentan,0.6425449999999999,Positive
+Lassie,0.739855,Positive
+Last Action Hero,0.8281649999999999,Positive
+"Last Klezmer: Leopold Kozlowski, His Life and Music, The",-0.2023,Negative
+Last Man Standing,0.555285,Positive
+Last Summer in the Hamptons,0.7372416666666667,Positive
+"Last Supper, The",0.11961,Positive
+"Last Time I Committed Suicide, The",0.8271499999999999,Positive
+"Last Time I Saw Paris, The",0.57308,Positive
+"Last of the Mohicans, The",0.67705,Positive
+Late Bloomers,0.5218111111111111,Positive
+Laura,0.8316705882352942,Positive
+Lawnmower Man 2: Beyond Cyberspace,-0.088445,Negative
+"Lawnmower Man, The",0.7611950000000001,Positive
+Lawrence of Arabia,0.8299049999999999,Positive
+"Leading Man, The",0.5092285714285715,Positive
+Leave It to Beaver,0.717535,Positive
+Leaving Las Vegas,0.742175,Positive
+Legal Deceit,0.14932,Positive
+Legends of the Fall,0.86836,Positive
+"Leopard Son, The",0.9574666666666666,Positive
+"Letter From Death Row, A",0.13880526315789474,Positive
+Liar Liar,0.8072699999999999,Positive
+Liebelei,0.9465285714285715,Positive
+"Life Less Ordinary, A",0.6516249999999999,Positive
+Life with Mikey,0.8107050000000001,Positive
+Lightning Jack,0.697695,Positive
+"Line King: Al Hirschfeld, The",0.97345,Positive
+"Lion King, The",0.9595549999999999,Positive
+Little Big League,0.890155,Positive
+Little Buddha,0.7204699999999999,Positive
+Little City,0.5699615384615384,Positive
+Little Lord Fauntleroy,0.922185,Positive
+Little Odessa,0.40739000000000003,Positive
+"Little Princess, A",0.7990299999999999,Positive
+"Little Princess, The",0.8975199999999999,Positive
+"Little Rascals, The",0.8766149999999999,Positive
+Little Women,0.828155,Positive
+Live Nude Girls,0.7335444444444446,Positive
+Living in Oblivion,0.860065,Positive
+Loaded,0.80761,Positive
+Local Hero,0.949165,Positive
+Loch Ness,0.723885,Positive
+"Locusts, The",0.550615,Positive
+Lone Star,0.349985,Positive
+"Long Kiss Goodnight, The",0.691425,Positive
+Looking for Richard,0.8712300000000001,Positive
+Lord of Illusions,-0.11899,Negative
+Losing Chase,0.641775,Positive
+Losing Isaiah,0.734685,Positive
+Lost Highway,0.44321,Positive
+Lost Horizon,0.866845,Positive
+"Lost World: Jurassic Park, The",0.75141,Positive
+Lost in Space,0.749215,Positive
+Lotto Land,0.86555,Positive
+Love & Human Remains,0.769505,Positive
+Love Affair,0.938775,Positive
+"Love Bug, The",0.906935,Positive
+Love Is All There Is,0.781555,Positive
+Love Jones,0.9605750000000001,Positive
+Love Serenade,0.67691,Positive
+Love and Death on Long Island,0.65394,Positive
+Love and Other Catastrophes,0.866305,Positive
+Love and a .45,0.646455,Positive
+Love in the Afternoon,0.92042,Positive
+Love! Valour! Compassion!,0.76118,Positive
+Lover's Knot,0.9680166666666666,Positive
+"Low Down Dirty Shame, A",0.30242,Positive
+"Low Life, The",0.66543,Positive
+M,0.502745,Positive
+M*A*S*H,0.502745,Positive
+M. Butterfly,0.9074249999999999,Positive
+MURDER and murder,0.646935,Positive
+Mad City,0.442645,Positive
+Mad Dog Time,0.6089100000000001,Positive
+Mad Love,0.25403,Positive
+Madame Butterfly,0.8729923076923077,Positive
+Made in America,0.626015,Positive
+"Madness of King George, The",0.667305,Positive
+Madonna: Truth or Dare,0.62628,Positive
+"Magic Hour, The",0.7462,Positive
+"Magnificent Seven, The",0.6895399999999999,Positive
+Major Payne,0.68431,Positive
+Malice,0.46539,Positive
+Mallrats,0.868915,Positive
+"Maltese Falcon, The",0.80334,Positive
+Mamma Roma,0.543315,Positive
+"Man Who Knew Too Little, The",0.8255250000000001,Positive
+"Man Who Would Be King, The",0.876355,Positive
+"Man Without a Face, The",0.5352750000000001,Positive
+"Man from Down Under, The",0.7573666666666666,Positive
+"Man in the Iron Mask, The",0.863935,Positive
+"Man of No Importance, A",0.650525,Positive
+Man of the House,0.71998,Positive
+Man of the Year,0.867075,Positive
+"Manchurian Candidate, The",0.87443,Positive
+Manhattan,0.918905,Positive
+Manhattan Murder Mystery,0.7224999999999999,Positive
+Manny & Lo,0.7442066666666667,Positive
+Manon of the Spring (Manon des sources),0.7626999999999999,Positive
+Margaret's Museum,0.7783785714285714,Positive
+"Mark of Zorro, The",0.986645,Positive
+Marked for Death,-0.34153,Negative
+Mars Attacks!,0.75494,Positive
+Marvin's Room,0.88446,Positive
+Mary Poppins,0.857685,Positive
+Mary Reilly,0.39368,Positive
+Mary Shelley's Frankenstein,0.63732,Positive
+"Mask, The",0.94303,Positive
+Mat' i syn,0.41587499999999994,Positive
+"MatchMaker, The",0.9792350000000001,Positive
+Matilda,0.8247249999999999,Positive
+Maverick,0.8504950000000001,Positive
+Maximum Risk,0.5750550000000001,Positive
+Maya Lin: A Strong Clear Vision,0.8938875,Positive
+"Maybe, Maybe Not (Bewegte Mann, Der)",0.9289950000000001,Positive
+McHale's Navy,0.81556,Positive
+Mediterraneo,0.86011,Positive
+Meet John Doe,0.858755,Positive
+Meet Me in St. Louis,0.9846199999999999,Positive
+Meet Wally Sparks,0.526285,Positive
+Men With Guns,0.18541500000000002,Positive
+Men in Black,0.87363,Positive
+Men of Means,0.3665,Positive
+Menace II Society,-0.2786,Negative
+Mercury Rising,0.494745,Positive
+Metisse (Café au Lait),0.9019166666666667,Positive
+Metro,0.66153,Positive
+Miami Rhapsody,0.710715,Positive
+Michael Collins,0.347825,Positive
+Microcosmos: Le peuple de l'herbe,0.78807,Positive
+Midnight Dancers (Sibak),0.8479666666666666,Positive
+Midnight in the Garden of Good and Evil,0.69539,Positive
+Mighty Aphrodite,0.9097099999999999,Positive
+Mighty Morphin Power Rangers: The Movie,0.60136,Positive
+"Mighty, The",0.918675,Positive
+Milk Money,0.86527,Positive
+Mille bolle blu,0.9637,Positive
+Miller's Crossing,0.767395,Positive
+Mimic,0.34157000000000004,Positive
+Mina Tannenbaum,0.9771,Positive
+Miracle on 34th Street,0.922415,Positive
+Mirage,0.86418,Positive
+"Mirror Has Two Faces, The",0.9861800000000001,Positive
+Mission: Impossible,0.48794000000000004,Positive
+"Misérables, Les",0.76539,Positive
+Mixed Nuts,0.344645,Positive
+"Modern Affair, A",0.9415058823529412,Positive
+Moll Flanders,0.8033100000000001,Positive
+Mondo,0.18642,Positive
+Money Talks,0.69508,Positive
+Money Train,0.335305,Positive
+"Month by the Lake, A",0.8259299999999999,Positive
+Monty Python and the Holy Grail,0.95917,Positive
+Moonlight and Valentino,0.61519,Positive
+Mortal Kombat,0.46205999999999997,Positive
+Mortal Kombat: Annihilation,0.0015999999999999986,Neutral
+"Mostro, Il",0.779105,Positive
+Mother,0.64234,Positive
+Mother Night,0.34717,Positive
+Mouse Hunt,0.6313150000000001,Positive
+Mr. Holland's Opus,0.8619,Positive
+Mr. Jones,0.344145,Positive
+Mr. Magoo,0.33387500000000003,Positive
+Mr. Smith Goes to Washington,0.63377,Positive
+Mr. Wonderful,0.8669,Positive
+Mr. Wrong,0.69395,Positive
+"Mrs. Brown (Her Majesty, Mrs. Brown)",0.7734,Positive
+Mrs. Dalloway,0.71334,Positive
+Mrs. Doubtfire,0.8865550000000001,Positive
+Mrs. Parker and the Vicious Circle,0.638375,Positive
+Mrs. Winterbourne,0.8250949999999999,Positive
+Much Ado About Nothing,0.980005,Positive
+Mulholland Falls,0.372325,Positive
+Multiplicity,0.85699,Positive
+Muppet Treasure Island,0.845895,Positive
+Murder at 1600,0.24947,Positive
+Murder in the First,-0.032429999999999994,Neutral
+"Murder, My Sweet",0.61577,Positive
+Muriel's Wedding,0.64984,Positive
+Mute Witness,0.524365,Positive
+My Best Friend's Wedding,0.86859,Positive
+My Fair Lady,0.8725949999999999,Positive
+My Family,0.75446,Positive
+My Favorite Season,0.53193,Positive
+My Favorite Year,0.97095,Positive
+My Fellow Americans,0.778215,Positive
+My Left Foot,0.870755,Positive
+My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),0.8271,Positive
+My Man Godfrey,0.964245,Positive
+My Own Private Idaho,0.8567449999999999,Positive
+Mystery Science Theater 3000: The Movie,0.7619849999999999,Positive
+Nadja,0.374915,Positive
+Naked,0.117075,Positive
+Naked Gun 33 1/3: The Final Insult,0.630105,Positive
+Naked in New York,0.8602823529411765,Positive
+National Lampoon's Senior Trip,0.40968,Positive
+Natural Born Killers,-0.45267,Negative
+Nell,0.8299150000000001,Positive
+Nelly & Monsieur Arnaud,0.88028,Positive
+Nemesis 2: Nebula,0.67609,Positive
+"Neon Bible, The",0.5122133333333333,Positive
+"Net, The",0.34480999999999995,Positive
+"NeverEnding Story III, The",0.456805,Positive
+"New Age, The",0.809895,Positive
+New Jersey Drive,0.44871999999999995,Positive
+New York Cop,-0.2895666666666667,Negative
+"Newton Boys, The",0.831065,Positive
+"Next Karate Kid, The",0.38497,Positive
+"Next Step, The",0.54043,Positive
+"Niagara, Niagara",0.777045,Positive
+Nick of Time,0.05131500000000001,Positive
+Nico Icon,0.6900285714285713,Positive
+Night Falls on Manhattan,0.5175449999999999,Positive
+Night Flier,0.204965,Positive
+Night of the Living Dead,-0.490815,Negative
+Night on Earth,0.92006,Positive
+"Nightmare Before Christmas, The",0.9650449999999999,Positive
+"Nightmare on Elm Street, A",-0.2697,Negative
+Nightwatch,0.757245,Positive
+Nil By Mouth,0.07699500000000001,Positive
+Nina Takes a Lover,0.7757714285714286,Positive
+Nine Months,0.67431,Positive
+Ninotchka,0.8552250000000001,Positive
+Nixon,0.548485,Positive
+No Escape,0.339,Positive
+Nobody Loves Me (Keiner liebt mich),0.7874142857142857,Positive
+Nobody's Fool,0.819,Positive
+Normal Life,0.673555,Positive
+North,0.13998499999999997,Positive
+North by Northwest,0.7735000000000001,Positive
+"Nosferatu (Nosferatu, eine Symphonie des Grauens)",0.20692,Positive
+Nosferatu a Venezia,0.061295,Positive
+Nothing Personal,0.45855555555555555,Positive
+Nothing to Lose,0.823355,Positive
+Notorious,0.8626149999999999,Positive
+Now and Then,0.9165300000000001,Positive
+Nowhere,0.543185,Positive
+"Nutty Professor, The",0.83927,Positive
+Nénette et Boni,0.8387800000000001,Positive
+"Object of My Affection, The",0.92012,Positive
+Of Human Bondage,0.59346,Positive
+Of Love and Shadows,0.7155777777777778,Positive
+Office Killer,-0.0765,Negative
+"Old Man and the Sea, The",0.6107,Positive
+Old Yeller,0.746875,Positive
+Oliver & Company,0.8600749999999999,Positive
+"Omen, The",0.396235,Positive
+On Golden Pond,0.9694649999999999,Positive
+Once Upon a Time in America,0.689875,Positive
+Once Upon a Time... When We Were Colored,0.4276,Positive
+Once Were Warriors,0.13037,Positive
+One Fine Day,0.698385,Positive
+One Flew Over the Cuckoo's Nest,0.48745000000000005,Positive
+One Night Stand,0.69726,Positive
+Only You,0.968045,Positive
+Open Season,0.73541,Positive
+Operation Dumbo Drop,0.299005,Positive
+Original Gangstas,0.39696000000000004,Positive
+Orlando,0.8083750000000001,Positive
+Oscar & Lucinda,0.9120649999999999,Positive
+Othello,0.8433849999999999,Positive
+"Other Voices, Other Rooms",0.5720666666666666,Positive
+Out to Sea,0.8067,Positive
+Outbreak,0.49490999999999996,Positive
+"Outlaw, The",0.5141,Positive
+"Pagemaster, The",0.8703900000000001,Positive
+"Pallbearer, The",0.57763,Positive
+Palmetto,0.6665449999999999,Positive
+Palookaville,0.6436615384615384,Positive
+Panther,0.694325,Positive
+"Paper, The",0.74727,Positive
+Paradise Lost: The Child Murders at Robin Hood Hills,-0.539785,Negative
+Paradise Road,0.161935,Positive
+"Parent Trap, The",0.8264150000000001,Positive
+Paris Is Burning,0.79644,Positive
+Paris Was a Woman,0.9682999999999999,Positive
+"Paris, France",0.8628857142857143,Positive
+"Paris, Texas",0.754545,Positive
+Party Girl,0.7786,Positive
+Passion Fish,0.8156599999999999,Positive
+Pather Panchali,0.69716,Positive
+Paths of Glory,1.4999999999987246e-05,Neutral
+Patton,0.540085,Positive
+"Peacemaker, The",0.282655,Positive
+Penny Serenade,0.9582499999999999,Positive
+"People vs. Larry Flynt, The",0.95777,Positive
+"Perez Family, The",0.698785,Positive
+"Perfect Candidate, A",0.53288,Positive
+"Perfect World, A",0.66829,Positive
+Persuasion,0.6060000000000001,Positive
+"Pest, The",0.04705499999999999,Neutral
+Pete's Dragon,0.96301,Positive
+"Phantom, The",0.719945,Positive
+Phantoms,0.09270500000000001,Positive
+Pharaoh's Army,0.20482857142857144,Positive
+Phat Beach,0.6925928571428571,Positive
+Phenomenon,0.9216799999999999,Positive
+Philadelphia,0.76808,Positive
+"Philadelphia Story, The",0.838105,Positive
+"Piano, The",0.95489,Positive
+Picnic,0.96702,Positive
+Picture Bride,0.7595416666666667,Positive
+Picture Perfect,0.865165,Positive
+Pie in the Sky,0.873685,Positive
+"Pillow Book, The",0.64497,Positive
+Pink Floyd - The Wall,0.061325000000000005,Positive
+Pinocchio,0.46983499999999995,Positive
+Platoon,-0.45433,Negative
+Playing God,0.60957,Positive
+Pocahontas,0.9078350000000001,Positive
+Poetic Justice,0.478995,Positive
+Poison Ivy II,0.39558,Positive
+Pollyanna,0.970275,Positive
+"Pompatus of Love, The",0.9405,Positive
+Ponette,0.43974,Positive
+"Portrait of a Lady, The",0.77461,Positive
+"Postino, Il",0.959505,Positive
+"Postman, The",0.268205,Positive
+Powder,0.713055,Positive
+Power 98,-0.21416666666666664,Negative
+"Preacher's Wife, The",0.91014,Positive
+Prefontaine,0.8055,Positive
+Pretty Woman,0.9097250000000001,Positive
+"Price Above Rubies, A",0.5840500000000001,Positive
+Priest,0.372305,Positive
+Primal Fear,0.53942,Positive
+Primary Colors,0.801505,Positive
+"Princess Bride, The",0.9677049999999999,Positive
+Princess Caraboo,0.63279,Positive
+Prisoner of the Mountains (Kavkazsky Plennik),-0.35136,Negative
+Private Benjamin,0.84511,Positive
+Private Parts,0.747935,Positive
+"Professional, The",0.637045,Positive
+"Program, The",0.512115,Positive
+"Promesse, La",0.274615,Positive
+"Prophecy II, The",0.47822000000000003,Positive
+"Prophecy, The",0.5945,Positive
+Psycho,0.471135,Positive
+Pulp Fiction,0.6795,Positive
+Pump Up the Volume,0.558585,Positive
+Purple Noon,0.788365,Positive
+Pushing Hands,0.5138473684210526,Positive
+"Pyromaniac's Love Story, A",0.8129142857142858,Positive
+Quartier Mozart,0.6495833333333333,Positive
+"Queen Margot (Reine Margot, La)",0.504815,Positive
+"Quest, The",0.12415000000000001,Positive
+"Quick and the Dead, The",0.6369,Positive
+"Quiet Man, The",0.8275499999999999,Positive
+"Quiet Room, The",0.34711,Positive
+Quiz Show,0.700375,Positive
+Race the Sun,0.80941,Positive
+Radioland Murders,0.42692499999999994,Positive
+Raging Bull,0.50939,Positive
+Raiders of the Lost Ark,0.9374800000000001,Positive
+"Rainmaker, The",0.94353,Positive
+Raise the Red Lantern,0.6578999999999999,Positive
+Raising Arizona,0.844085,Positive
+Ran,0.40903,Positive
+Ransom,0.608475,Positive
+Raw Deal,0.277865,Positive
+Real Genius,0.8951100000000001,Positive
+Reality Bites,0.694555,Positive
+Rear Window,0.785335,Positive
+Rebecca,0.7865300000000001,Positive
+Rebel Without a Cause,0.28124000000000005,Positive
+Reckless,0.16826666666666668,Positive
+Red Corner,0.618065,Positive
+"Red Firecracker, Green Firecracker",0.681325,Positive
+Red Rock West,0.485105,Positive
+"Ref, The",0.814405,Positive
+Relative Fear,0.33654999999999996,Positive
+"Relic, The",0.29964500000000005,Positive
+"Reluctant Debutante, The",0.8546099999999999,Positive
+"Remains of the Day, The",0.721735,Positive
+Renaissance Man,0.659975,Positive
+"Rendezvous in Paris (Rendez-vous de Paris, Les)",0.9302181818181818,Positive
+Rent-a-Kid,0.8830071428571429,Positive
+"Replacement Killers, The",0.36663,Positive
+Reservoir Dogs,0.17894,Positive
+Restoration,0.8761150000000001,Positive
+"Return of Martin Guerre, The (Retour de Martin Guerre, Le)",0.843755,Positive
+Return of the Jedi,0.45189500000000005,Positive
+"Return of the Pink Panther, The",0.894135,Positive
+Rhyme & Reason,0.9450799999999999,Positive
+"Rich Man's Wife, The",0.13618000000000002,Positive
+Richard III,0.572225,Positive
+Richie Rich,0.9071400000000001,Positive
+Ridicule,0.664695,Positive
+"Right Stuff, The",0.9088900000000001,Positive
+Ripe,-0.120485,Negative
+Rising Sun,0.6165200000000001,Positive
+"River Wild, The",0.662695,Positive
+"Road to Wellville, The",0.8228249999999999,Positive
+Rob Roy,0.21619000000000002,Positive
+Robert A. Heinlein's The Puppet Masters,0.789145,Positive
+Robin Hood: Men in Tights,0.8696400000000001,Positive
+Robin Hood: Prince of Thieves,0.86653,Positive
+Robocop 3,-0.251945,Negative
+"Rock, The",0.62261,Positive
+Rocket Man,0.9678285714285714,Positive
+Roman Holiday,0.9590350000000001,Positive
+Romeo Is Bleeding,0.22271000000000002,Positive
+Romper Stomper,-0.10256000000000001,Negative
+Romy and Michele's High School Reunion,0.775465,Positive
+"Room with a View, A",0.8975350000000001,Positive
+Roseanna's Grave (For Roseanna),0.9423588235294117,Positive
+Rosencrantz and Guildenstern Are Dead,0.7444,Positive
+Rosewood,0.681745,Positive
+Rough Magic,0.69691,Positive
+Ruby in Paradise,0.728225,Positive
+Rudy,0.889515,Positive
+"Ruling Class, The",0.6217900000000001,Positive
+Rumble in the Bronx,0.6374850000000001,Positive
+"Run of the Country, The",0.6954923076923076,Positive
+S.F.W.,0.37311,Positive
+Sabrina,0.9359550000000001,Positive
+Safe,0.38905,Positive
+Safe Passage,0.6707545454545455,Positive
+"Saint of Fort Washington, The",0.318735,Positive
+"Saint, The",0.9049950000000001,Positive
+Salut cousin!,0.39446666666666674,Positive
+"Santa Clause, The",0.88811,Positive
+Santa with Muscles,-0.364765,Negative
+"Savage Nights (Nuits fauves, Les)",0.44933499999999993,Positive
+"Scarlet Letter, The",0.491315,Positive
+Schindler's List,0.637885,Positive
+Schizopolis,0.8608499999999999,Positive
+"Scout, The",0.39339,Positive
+Scream,-0.16844,Negative
+Scream 2,0.07402499999999998,Positive
+Scream of Stone (Schrei aus Stein),0.57275,Positive
+Screamers,0.36544,Positive
+"Search for One-eye Jimmy, The",0.46393000000000006,Positive
+Searching for Bobby Fischer,0.9857049999999999,Positive
+"Second Jungle Book: Mowgli & Baloo, The",0.5279,Positive
+"Secret Adventures of Tom Thumb, The",0.44225833333333336,Positive
+"Secret Agent, The",0.19472,Positive
+"Secret Garden, The",0.84209,Positive
+"Secret of Roan Inish, The",0.8179449999999999,Positive
+Secrets & Lies,0.57824,Positive
+Selena,0.763525,Positive
+Sense and Sensibility,0.9864649999999999,Positive
+Senseless,0.76553,Positive
+Serial Mom,0.694735,Positive
+Set It Off,0.314695,Positive
+Seven Years in Tibet,0.83965,Positive
+"Seventh Seal, The (Sjunde inseglet, Det)",-0.13218999999999997,Negative
+"Sex, Lies, and Videotape",0.8193199999999999,Positive
+"Sexual Life of the Belgians, The",0.8375400000000001,Positive
+Sgt. Bilko,0.801045,Positive
+Shadow Conspiracy,0.070045,Positive
+Shadow of Angels (Schatten der Engel),-0.00014000000000000123,Neutral
+"Shadow, The",0.23703333333333335,Positive
+Shadowlands,0.8992699999999999,Positive
+Shadows (Cienie),0.74651,Positive
+"Shaggy Dog, The",0.29862500000000003,Positive
+Shall We Dance?,0.67764,Positive
+Shallow Grave,0.48975,Positive
+Shanghai Triad (Yao a yao yao dao waipo qiao),0.79733,Positive
+"Shawshank Redemption, The",0.867615,Positive
+She's So Lovely,0.482765,Positive
+She's the One,0.75056,Positive
+Shiloh,0.7102294117647059,Positive
+Shine,0.70862,Positive
+"Shining, The",0.06337999999999999,Positive
+"Shooter, The",-0.03362941176470589,Neutral
+Shooting Fish,0.84827,Positive
+Shopping,-0.01117499999999999,Neutral
+Short Cuts,0.385685,Positive
+"Show, The",0.846035,Positive
+Showgirls,0.37372,Positive
+"Silence of the Lambs, The",0.6633549999999999,Positive
+"Simple Twist of Fate, A",0.75215,Positive
+"Simple Wish, A",0.8856149999999999,Positive
+Singin' in the Rain,0.9819599999999999,Positive
+Sirens,0.8126049999999999,Positive
+Six Degrees of Separation,0.882295,Positive
+"Sixth Man, The",0.7060150000000001,Positive
+Sleeper,0.9520099999999999,Positive
+Sleepers,0.40822,Positive
+Sleepless in Seattle,0.76756,Positive
+Sleepover,0.736035,Positive
+Sliding Doors,0.9429000000000001,Positive
+Sling Blade,0.6805749999999999,Positive
+"Slingshot, The",0.8480142857142857,Positive
+Sliver,0.50656,Positive
+Small Faces,0.34331,Positive
+"Smile Like Yours, A",0.7811666666666667,Positive
+Smilla's Sense of Snow,0.29296500000000003,Positive
+Smoke,0.792365,Positive
+Sneakers,0.68937,Positive
+Snow White and the Seven Dwarfs,0.9282,Positive
+So Dear to My Heart,0.93652,Positive
+So I Married an Axe Murderer,0.8632199999999999,Positive
+Solo,0.80528,Positive
+Some Folks Call It a Sling Blade,0.702975,Positive
+Some Kind of Wonderful,0.971955,Positive
+Some Like It Hot,0.959975,Positive
+Some Mother's Son,0.215655,Positive
+Somebody to Love,0.95845,Positive
+Someone Else's America,0.9311499999999999,Positive
+Something to Talk About,0.7878000000000001,Positive
+Somewhere in Time,0.95048,Positive
+Son in Law,0.7852,Positive
+Sophie's Choice,0.594325,Positive
+Soul Food,0.70134,Positive
+"Sound of Music, The",0.9446999999999999,Positive
+Space Jam,0.9065049999999999,Positive
+"Spanish Prisoner, The",0.5725,Positive
+Spanking the Monkey,0.21224500000000002,Positive
+Spawn,0.42679,Positive
+"Specialist, The",0.128105,Positive
+Species,0.6466649999999999,Positive
+Speechless,0.9346650000000001,Positive
+Speed,0.81584,Positive
+Speed 2: Cruise Control,-0.04367499999999999,Neutral
+Sphere,0.68058,Positive
+Spice World,0.231235,Positive
+Spirits of the Dead (Tre passi nel delirio),0.632345,Positive
+"Spitfire Grill, The",0.645875,Positive
+Sprung,0.7078,Positive
+Spy Hard,0.595515,Positive
+Squeeze,0.51635,Positive
+Stalingrad,-0.482475,Negative
+Stalker,0.7670399999999999,Positive
+Stand by Me,0.95441,Positive
+Star Kid,0.30934999999999996,Positive
+Star Maps,0.627855,Positive
+Star Trek III: The Search for Spock,0.556245,Positive
+Star Trek IV: The Voyage Home,0.8259000000000001,Positive
+Star Trek V: The Final Frontier,0.510475,Positive
+Star Trek VI: The Undiscovered Country,0.59902,Positive
+Star Trek: First Contact,0.896475,Positive
+Star Trek: Generations,0.60325,Positive
+Star Trek: The Motion Picture,0.88971,Positive
+Star Trek: The Wrath of Khan,0.565095,Positive
+Star Wars,0.6748149999999999,Positive
+Stargate,0.82936,Positive
+"Stars Fell on Henrietta, The",0.8960857142857143,Positive
+Starship Troopers,0.34269,Positive
+"Steal Big, Steal Little",0.7129666666666666,Positive
+Stealing Beauty,0.819755,Positive
+Steel,0.9657199999999999,Positive
+Stefano Quantestorie,0.9571,Positive
+Stephen King's The Langoliers,0.35503999999999997,Positive
+"Sting, The",0.7877,Positive
+Stonewall,0.025879999999999997,Neutral
+"Story of Xinghua, The",0.874305,Positive
+Strange Days,0.68594,Positive
+Stranger in the House,-0.04822857142857141,Neutral
+"Stranger, The",0.46965,Positive
+Strawberry and Chocolate (Fresa y chocolate),0.951975,Positive
+Street Fighter,0.075855,Positive
+"Streetcar Named Desire, A",0.918655,Positive
+Strictly Ballroom,0.8574400000000001,Positive
+Striking Distance,0.2551,Positive
+Stripes,0.90249,Positive
+Striptease,0.73213,Positive
+Stuart Saves His Family,0.66381,Positive
+"Stupids, The",-0.11570499999999999,Negative
+SubUrbia,0.27230499999999996,Positive
+"Substance of Fire, The",0.76236875,Positive
+"Substitute, The",0.39456,Positive
+Sudden Death,-0.42805,Negative
+Sudden Manhattan,0.6734285714285715,Positive
+"Sum of Us, The",0.919615,Positive
+"Sunchaser, The",0.453685,Positive
+Sunset Blvd.,0.899985,Positive
+Sunset Park,0.5773777777777778,Positive
+Super Mario Bros.,0.978645,Positive
+Supercop,0.708545,Positive
+Surviving Picasso,0.768665,Positive
+Surviving the Game,0.599985,Positive
+Suture,0.43989500000000004,Positive
+"Swan Princess, The",0.873395,Positive
+"Sweet Hereafter, The",-0.04210500000000001,Neutral
+Sweet Nothing,0.3716285714285714,Positive
+Swept from the Sea,0.59168,Positive
+Swimming with Sharks,0.5347299999999999,Positive
+Swingers,0.57851,Positive
+Swiss Family Robinson,0.9222300000000001,Positive
+Switchback,0.063155,Positive
+Switchblade Sisters,0.201355,Positive
+"Sword in the Stone, The",0.908065,Positive
+"Symphonie pastorale, La",0.58026,Positive
+T-Men,0.6710499999999999,Positive
+Tainted,0.36017,Positive
+Tales from the Hood,-0.529755,Negative
+"Tango Lesson, The",0.708445,Positive
+Tank Girl,0.272275,Positive
+Target,0.32908125,Positive
+Taxi Driver,0.25945,Positive
+Telling Lies in America,0.78189,Positive
+Terminal Velocity,0.49375,Positive
+Terminator 2: Judgment Day,0.841725,Positive
+"Terminator, The",0.667035,Positive
+Terror in a Texas Town,0.16549,Positive
+Tetsuo II: Body Hammer,0.42548,Positive
+That Darn Cat!,0.8774,Positive
+That Old Feeling,0.8036049999999999,Positive
+That Thing You Do!,0.8123250000000001,Positive
+The Courtyard,-0.8805499999999999,Negative
+The Deadly Cure,0.8938200000000001,Positive
+The Innocent,0.627455,Positive
+Theodore Rex,-0.09706499999999998,Negative
+They Made Me a Criminal,0.32236000000000004,Positive
+"Thin Blue Line, The",0.78879,Positive
+"Thin Line Between Love and Hate, A",0.5415157894736842,Positive
+"Thin Man, The",0.86036,Positive
+Things to Do in Denver when You're Dead,0.447175,Positive
+Thinner,0.48678499999999997,Positive
+"Third Man, The",0.44128,Positive
+Thirty-Two Short Films About Glenn Gould,0.802645,Positive
+This Is Spinal Tap,0.72972,Positive
+"Thousand Acres, A",0.5515450000000001,Positive
+"Three Caballeros, The",0.8353849999999999,Positive
+Three Colors: Blue,0.567365,Positive
+Three Colors: Red,0.746905,Positive
+Three Colors: White,0.5207550000000001,Positive
+Three Lives and Only One Death,0.6073,Positive
+"Three Musketeers, The",0.8173,Positive
+Three Wishes,0.61249,Positive
+Threesome,0.36703,Positive
+Tie Me Up! Tie Me Down!,0.9481400000000001,Positive
+"Tie That Binds, The",-0.003287499999999971,Neutral
+Tigrero: A Film That Was Never Made,0.9517857142857142,Positive
+Time Tracers,0.154725,Positive
+"Time to Kill, A",0.05447,Positive
+Timecop,0.523515,Positive
+Tin Cup,0.883335,Positive
+"Tin Drum, The (Blechtrommel, Die)",0.18458999999999998,Positive
+Tin Men,0.893145,Positive
+Titanic,0.84444,Positive
+To Be or Not to Be,0.7436149999999999,Positive
+To Catch a Thief,0.97524,Positive
+To Cross the Rubicon,0.9560000000000001,Positive
+To Die For,0.63637,Positive
+To Gillian on Her 37th Birthday,0.4972,Positive
+To Kill a Mockingbird,0.8874650000000001,Positive
+"To Wong Foo, Thanks for Everything! Julie Newmar",0.94465,Positive
+Tokyo Fist,0.20732499999999998,Positive
+Tom & Viv,0.29901,Positive
+Tom and Huck,0.579965,Positive
+Tombstone,0.9178750000000001,Positive
+Tommy Boy,0.89849,Positive
+Tomorrow Never Dies,0.41424500000000003,Positive
+Top Gun,0.8504950000000001,Positive
+Top Hat,0.9202049999999999,Positive
+Total Eclipse,0.5712550000000001,Positive
+Touch,0.9292083333333333,Positive
+Touch of Evil,0.092725,Positive
+Tough and Deadly,0.8748374999999999,Positive
+Touki Bouki (Journey of the Hyena),0.509625,Positive
+Toy Story,0.9841849999999999,Positive
+Trainspotting,0.48172,Positive
+"Transformers: The Movie, The",0.43684,Positive
+Traveller,0.5755176470588235,Positive
+"Treasure of the Sierra Madre, The",0.9631000000000001,Positive
+Trees Lounge,0.82481,Positive
+Trial and Error,0.5561849999999999,Positive
+Trial by Jury,-0.025870000000000004,Neutral
+"Trigger Effect, The",0.17251500000000003,Positive
+True Crime,0.288435,Positive
+True Lies,0.79471,Positive
+True Romance,0.78565,Positive
+"Truman Show, The",0.943435,Positive
+Trust,0.47867,Positive
+"Truth About Cats & Dogs, The",0.92167,Positive
+"Truth or Consequences, N.M.",0.260795,Positive
+Turbo: A Power Rangers Movie,-0.010794999999999989,Neutral
+Turbulence,-0.11910499999999999,Negative
+"Turning, The",-0.329285,Negative
+Twelfth Night,0.94551,Positive
+Twelve Monkeys,0.7527200000000001,Positive
+Twilight,0.701835,Positive
+Twin Town,0.268395,Positive
+Twisted,0.691585,Positive
+Twister,0.60317,Positive
+Two Bits,0.761605,Positive
+Two Deaths,0.938,Positive
+Two Friends (1986) ,0.94655,Positive
+Two Much,0.942025,Positive
+Two if by Sea,0.719135,Positive
+U Turn,0.79271,Positive
+U.S. Marshalls,0.624695,Positive
+Ulee's Gold,0.72639,Positive
+"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",0.933975,Positive
+"Unbearable Lightness of Being, The",0.806715,Positive
+Under Siege,0.41377499999999995,Positive
+Under Siege 2: Dark Territory,0.1068,Positive
+Underground,0.17273,Positive
+"Underneath, The",0.44597,Positive
+Underworld,0.670075,Positive
+Unforgettable,0.62966,Positive
+Unforgiven,0.38092000000000004,Positive
+Unhook the Stars,0.66209,Positive
+Unstrung Heroes,0.665845,Positive
+Unzipped,0.7581071428571429,Positive
+Up Close and Personal,0.829555,Positive
+Up in Smoke,0.807535,Positive
+"Usual Suspects, The",0.62419,Positive
+Vampire in Brooklyn,0.30867,Positive
+"Van, The",0.72858,Positive
+Vanya on 42nd Street,0.88377,Positive
+Vegas Vacation,0.786745,Positive
+Venice/Venice,0.446505,Positive
+Vermin,0.60856,Positive
+Vermont Is For Lovers,0.9238666666666666,Positive
+Vertigo,0.8181749999999999,Positive
+"Very Brady Sequel, A",0.909425,Positive
+"Very Natural Thing, A",0.7805150000000001,Positive
+Victor/Victoria,0.89085,Positive
+"Vie est belle, La (Life is Rosey)",0.82975,Positive
+Village of the Damned,0.14214,Positive
+Virtuosity,0.367415,Positive
+Volcano,0.28329499999999996,Positive
+Wag the Dog,0.23401,Positive
+Waiting for Guffman,0.846385,Positive
+Waiting to Exhale,0.5873700000000001,Positive
+"Walk in the Clouds, A",0.860085,Positive
+"Walk in the Sun, A",-0.16606,Negative
+Walkabout,0.497635,Positive
+"Walking Dead, The",0.401135,Positive
+Walking and Talking,0.9099349999999999,Positive
+"War Room, The",0.74199,Positive
+"War at Home, The",0.66786,Positive
+"War, The",0.182535,Positive
+Warriors of Virtue,0.214865,Positive
+Washington Square,0.73615,Positive
+Waterworld,0.341395,Positive
+Wedding Bell Blues,0.4818666666666667,Positive
+"Wedding Gift, The",0.4850833333333333,Positive
+"Wedding Singer, The",0.85884,Positive
+Weekend at Bernie's,0.5444,Positive
+Welcome To Sarajevo,-0.073855,Negative
+Welcome to the Dollhouse,-0.080585,Negative
+Wes Craven's New Nightmare,0.28782,Positive
+What Happened Was...,0.40306499999999995,Positive
+What's Eating Gilbert Grape,0.839565,Positive
+What's Love Got to Do with It,0.7537149999999999,Positive
+When Harry Met Sally...,0.967695,Positive
+When Night Is Falling,0.78914,Positive
+When We Were Kings,0.718065,Positive
+When a Man Loves a Woman,0.701535,Positive
+While You Were Sleeping,0.9383950000000001,Positive
+"White Balloon, The",0.703445,Positive
+White Man's Burden,-0.14411000000000002,Negative
+White Squall,0.580735,Positive
+"Whole Wide World, The",0.798825,Positive
+Widows' Peak,0.5767666666666666,Positive
+"Wife, The",0.85106,Positive
+Wild America,0.7872950000000001,Positive
+Wild Bill,0.40529000000000004,Positive
+"Wild Bunch, The",0.10814999999999997,Positive
+Wild Reeds,0.70523,Positive
+Wild Things,0.70265,Positive
+William Shakespeare's Romeo and Juliet,0.86433,Positive
+Willy Wonka and the Chocolate Factory,0.923335,Positive
+Window to Paris,0.9202466666666667,Positive
+Wings of Courage,0.8043666666666667,Positive
+Wings of Desire,0.9449799999999999,Positive
+"Wings of the Dove, The",0.9212,Positive
+Winnie the Pooh and the Blustery Day,0.9469153846153847,Positive
+"Winter Guest, The",0.7623800000000001,Positive
+Wishmaster,0.261075,Positive
+With Honors,0.876455,Positive
+Withnail and I,0.9340550000000001,Positive
+Witness,0.56551,Positive
+"Wizard of Oz, The",0.93211,Positive
+Wolf,0.817895,Positive
+"Woman in Question, The",0.14187999999999998,Positive
+"Women, The",0.465485,Positive
+Wonderland,0.4289,Positive
+"Wooden Man's Bride, The (Wu Kui)",0.15968,Positive
+"World of Apu, The (Apur Sansar)",0.8483599999999999,Positive
+"Wrong Trousers, The",0.9522,Positive
+Wyatt Earp,0.701715,Positive
+Yankee Zulu,0.7499375,Positive
+Year of the Horse,0.46943,Positive
+You So Crazy,0.72435,Positive
+Young Frankenstein,0.854635,Positive
+Young Guns,0.50983,Positive
+Young Guns II,0.726675,Positive
+"Young Poisoner's Handbook, The",0.318055,Positive
+Zeus and Roxanne,0.49189,Positive
+Á köldum klaka (Cold Fever),0.72213,Positive
