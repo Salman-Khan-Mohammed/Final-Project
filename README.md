@@ -35,19 +35,9 @@ This model focuses on user-item interactions, learning latent features for both 
 The models are evaluated using the following metrics:
 - **Root Mean Squared Error (RMSE)**
 - **Mean Absolute Error (MAE)**
-- **Precision**
-- **Recall**
-- **F1-Score**
-
-## Results
-
-The Matrix Factorization Model outperforms the Hybrid Recommender Model in terms of both accuracy and classification metrics:
-- **Matrix Factorization Model**: Exhibited lower RMSE and MAE, and higher Precision, Recall, and F1-Score.
-- **Hybrid Model**: Although it combines more features, it showed higher RMSE and MAE, and lower classification metrics, indicating room for improvement.
-
-## Visualizations
-
-The project includes visualizations comparing the performance of both models using bar charts. These visualizations provide a clear comparison across different evaluation metrics.
+- **R2**
+- **Accuracy**
+- 
 
 ## How to Run the Project
 
@@ -56,19 +46,20 @@ The project includes visualizations comparing the performance of both models usi
 - Required libraries: `pandas`, `numpy`, `torch`, `sklearn`, `plotly`
 
 ### Steps to Run
-1. **Prepare the Dataset**:
+   1 .  **Prepare the Dataset**:
    - Place the `merged_data_1.csv` file in the designated directory.
    
-2. **Train the Models**:
+   2 . **Train the Models**:
    - Run the training script to train both the Hybrid Recommender Model and the Matrix Factorization Model.
    - The script will generate `hybrid_model_predictions.csv`.
 
-3. **Evaluate the Models**:
+   3 . **Evaluate the Models**:
    - Run the evaluation script to compare the models based on RMSE, MAE, Precision, Recall, and F1-Score.
    - The script will generate visualizations of the results.
 
-4. **Generate Recommendations**:
+   4 . **Generate Recommendations**:
    - Use the recommendation script to generate movie recommendations for a specific user.
+
 
 ## Files and Directories
 
@@ -77,7 +68,20 @@ The project includes visualizations comparing the performance of both models usi
 - `README.md`: Project documentation.
 - `training_script.py`: Script for training the models.
 - `evaluation_script.py`: Script for evaluating model performance.
-- `recommendation_script.py`: Script for generating movie recommendations.
+
+## Observations
+
+The Matrix Factorization Model outperforms the Hybrid Recommender Model in terms of both accuracy and classification metrics:
+- The Hybrid model has a higher RMSE (0.937605) and MAE (0.741122) compared to the Matrix Factorization model, indicating that its predictions are less accurate.
+
+- In contrast, the Matrix Factorization model significantly outperforms the Hybrid model in every evaluation metric. It has a much lower RMSE (0.299825) and MAE (0.222490), indicating better prediction accuracy. 
+
+
+## Visualizations
+
+Comparing the performance of both models using bar charts. These visualizations provide a clear comparison across different evaluation metrics.
+![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Models_Comparison.png)
+
 
 ## Conclusion
 
@@ -108,5 +112,7 @@ This project is licensed under the MIT License.
 For any questions or feedback, please contact:
 
 Name: Mohammed Salman Khan
+
 Email: mohammedsalman65257@gmail.com 
+
 LinkedIn: https://www.linkedin.com/in/mohammed-salman-khan-529177193/
