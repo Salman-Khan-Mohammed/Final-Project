@@ -69,14 +69,6 @@ The models are evaluated using the following metrics:
 - `training_script.py`: Script for training the models.
 - `evaluation_script.py`: Script for evaluating model performance.
 
-## Observations
-
-The Matrix Factorization Model outperforms the Hybrid Recommender Model in terms of both accuracy and classification metrics:
-- The Hybrid model has a higher RMSE (0.937605) and MAE (0.741122) compared to the Matrix Factorization model, indicating that its predictions are less accurate.
-
-- In contrast, the Matrix Factorization model significantly outperforms the Hybrid model in every evaluation metric. It has a much lower RMSE (0.299825) and MAE (0.222490), indicating better prediction accuracy. 
-
-
 ## Visualizations
 
 **Matrix Factorization:-**
@@ -85,15 +77,24 @@ RMSE over Epochs
 
 ![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Matrix-f_RMSE_AHP.png)
 
+
 **Hybrid Model:-**
 
 RMSE over Epochs
 
 ![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Hybrid-M_AHP.png)
 
+
 **Comparing the performance of both models using bar charts :-** These visualizations provide a clear comparison across different evaluation metrics.
 ![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Models_Comparison.png)
 
+## Observations
+
+The Matrix Factorization Model outperforms the Hybrid Recommender Model in terms of both accuracy and classification metrics:
+- The Hybrid model has a higher RMSE (0.937605) and MAE (0.741122) compared to the Matrix Factorization model, indicating that its predictions are less accurate.
+
+- In contrast, the Matrix Factorization model significantly outperforms the Hybrid model in every evaluation metric. It has a much lower RMSE (0.299825) and MAE (0.222490), indicating better prediction accuracy.
+  
 
 ## Conclusion
 
