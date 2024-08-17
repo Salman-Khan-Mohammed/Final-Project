@@ -79,7 +79,19 @@ The Matrix Factorization Model outperforms the Hybrid Recommender Model in terms
 
 ## Visualizations
 
-Comparing the performance of both models using bar charts. These visualizations provide a clear comparison across different evaluation metrics.
+**Matrix Factorization:-**
+
+RMSE over Epochs
+
+![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Matrix-f_RMSE_AHP.png)
+
+**Hybrid Model:-**
+
+RMSE over Epochs
+
+![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Hybrid-M_AHP.png)
+
+**Comparing the performance of both models using bar charts :-** These visualizations provide a clear comparison across different evaluation metrics.
 ![App Screenshot](https://github.com/Salman-Khan-Mohammed/Recommendation-System/blob/main/Models_Comparison.png)
 
 
@@ -95,10 +107,6 @@ This project is licensed under the MIT License.
 
 - Thanks to the open-source community for providing the libraries used in this project.
 - Special thanks to [Your Name/Your Team] for contributions and support in developing this project.
-
-## Screenshots
-
-![App Screenshot](Dashboard_screenshot_1.png)
 
 
 ## License
